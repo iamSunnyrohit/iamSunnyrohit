@@ -26,5 +26,3 @@ I'm a passionate Full-Stack Developer who loves creating dynamic and user-friend
 
 ## 😄 Pronouns: He/Him
 
-## ⚡ Fun fact:
-I started coding when I was 14 and created my first game using JavaScript! When I'm not coding, you'll find me exploring new cuisines or playing chess.
