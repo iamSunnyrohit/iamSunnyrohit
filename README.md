@@ -21,7 +21,7 @@ I'm a passionate Full-Stack Developer who loves creating dynamic and user-friend
 - Anything related to web3, blockchain, and decentralized applications.
 
 ## 📫 How to reach me...
-- Email: sunnyrohit2023@gamil.com
+- Email: sunnyrohit2023@gmail.com
 - LinkedIn: https://www.linkedin.com/in/sunny-rohit/
 
 ## 😄 Pronouns: He/Him
