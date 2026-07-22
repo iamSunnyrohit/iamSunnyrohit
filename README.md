@@ -1,28 +1,54 @@
-# 👋 Hi, I’m @iamSunnyrohit
+# 👋 Hi, I’m Sunny Rohit (@iamSunnyrohit)
 
-I'm a passionate Full-Stack Developer who loves creating dynamic and user-friendly applications. My expertise spans frontend and backend technologies, and I thrive on solving challenging problems through code.
+I’m a **Full-Stack Developer** & **AI Systems Builder** passionate about crafting high-performance, scalable web applications and intelligent systems. I bridge the gap between intuitive frontends, robust backends, and cutting-edge AI integrations to build impactful digital solutions.
 
-## 👀 I’m interested in...
-- Building seamless web and mobile applications.
-- Exploring the latest trends in software development and cloud computing.
-- Open-source projects that push the boundaries of modern tech.
-- Collaborating on innovative projects that make an impact.
+🌐 **Portfolio:** [sunny-rohit.vercel.app](https://sunny-rohit.vercel.app/)
 
-## 🌱 I’m currently learning...
-- Advanced **React** and **Node.js** techniques.
-- **DevOps** practices for continuous integration and delivery.
-- **Microservices** and **containerization** with Docker and Kubernetes.
-- The intricacies of **TypeScript** and other modern JavaScript frameworks.
+---
 
-## 💞️ I’m looking to collaborate on...
-- Open-source full-stack projects.
-- Applications that leverage cloud services like AWS, Azure, or GCP.
-- Projects aimed at improving user experience and performance.
-- Anything related to web3, blockchain, and decentralized applications.
+## 🚀 Tech Stack & Core Competencies
 
-## 📫 How to reach me...
-- Email: sunnyrohit2023@gmail.com
-- LinkedIn: https://www.linkedin.com/in/sunny-rohit/
+- **Frontend:** React, Next.js, TypeScript, Tailwind CSS, Redux
+- **Backend:** Node.js, Express.js, RESTful APIs, Microservices
+- **Databases:** MongoDB, PostgreSQL, Vector Databases (ChromaDB)
+- **AI & ML Integration:** Local LLM Pipelines (Llama, Mistral), RAG Architectures, Computer Vision
+- **DevOps & Tools:** Docker, Git/GitHub, CI/CD, Postman, macOS (Apple Silicon)
 
-## 😄 Pronouns: He/Him
+---
 
+## 👀 Areas of Focus
+
+- ⚡ **Full-Stack Development:** Building seamless, responsive web applications using the MERN stack and Next.js.
+- 🤖 **Applied AI:** Implementing Retrieval-Augmented Generation (RAG) and local LLM workflows for domain-specific automation.
+- 🎨 **User Experience:** Designing performant, clean interfaces with an eye for UI/UX clarity.
+- ☁️ **Cloud & DevOps:** Containerizing applications with Docker and modern deployment pipelines.
+
+---
+
+## 🌱 Currently Deep-Diving Into
+
+- Advanced **TypeScript** pattern design & optimized server rendering in **Next.js**.
+- Scaling **Microservices** & container orchestration with **Docker & Kubernetes**.
+- Production-grade **DevOps** practices (CI/CD workflows and automated testing).
+- Optimizing context windows and vector retrieval speed for **Local RAG systems**.
+
+---
+
+## 💞️ Let’s Collaborate On
+
+- Open-source full-stack and AI-driven projects.
+- AI-enhanced tools, modern web apps, and developer productivity systems.
+- Projects prioritizing high performance, sleek UI, and solid architecture.
+
+---
+
+## 📫 Connect With Me
+
+- **Portfolio:** [sunny-rohit.vercel.app](https://sunny-rohit.vercel.app/)
+- **Email:** [sunnyrohit2023@gmail.com](mailto:sunnyrohit2023@gmail.com)
+- **LinkedIn:** [linkedin.com/in/sunny-rohit](https://www.linkedin.com/in/sunny-rohit/)
+- **GitHub:** [@iamSunnyrohit](https://github.com/iamSunnyrohit)
+
+---
+
+> *"Building simple solutions to complex problems, one commit at a time."*
