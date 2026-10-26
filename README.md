@@ -9,6 +9,23 @@
 - 🚀 Full-Stack Developer & AI Systems Builder from India.
 - 🌐 Portfolio: **[sunny-rohit.vercel.app](https://sunny-rohit.vercel.app/)**
 - 🛠️ Passionate about crafting high-performance MERN & Next.js web applications, RAG pipelines, and local LLM integrations.
+- ⚡ Currently building **LinkPulse**, a URL shortener with an async click-analytics pipeline.
+
+---
+
+### Featured Project 🔗 : LinkPulse
+
+A backend-first URL shortener where redirects stay fast and analytics are processed asynchronously.
+
+- **Fast redirects:** Redis-cached lookups with a PostgreSQL fallback, stampede protection and instant cache invalidation on edits.
+- **Async analytics:** click events are published to RabbitMQ and consumed by an idempotent worker, with retries, backoff and a dead-letter queue.
+- **Link lifecycle:** Base62 short codes, custom aliases, expiry, deactivation, and `302`/`403`/`404`/`410` responses.
+- **Privacy-minded:** no raw IPs stored, rotating keyed visitor hashes, and coarse country/device/browser/referrer data only.
+- **Dashboard:** React + Vite UI with overview, per-link analytics, routing settings and an admin telemetry page (queue depth, cache hit ratio, latency percentiles).
+
+**Stack:** Node.js · Fastify · PostgreSQL · Redis · RabbitMQ · React · Docker Compose
+
+🔎 Source: **[github.com/YOUR_USERNAME/linkpulse](https://github.com/YOUR_USERNAME/linkpulse)**
 
 ---
 
@@ -18,6 +35,7 @@
 ✨ Microservices architecture & containerization with **Docker** & **Kubernetes**  
 ✨ Production **DevOps** pipelines (CI/CD workflows)  
 ✨ Optimizing vector retrieval & performance for **Local RAG Systems**  
+✨ Event-driven backends: **message queues**, caching and idempotent processing  
 
 ---
 
@@ -37,8 +55,11 @@
   <!-- Backend & Database -->
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/express.js-%23404D59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
+  <img src="https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white" alt="Fastify" />
   <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
   <br>
   <!-- Tools & Cloud -->
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
