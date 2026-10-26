@@ -25,7 +25,7 @@ A backend-first URL shortener where redirects stay fast and analytics are proces
 
 **Stack:** Node.js · Fastify · PostgreSQL · Redis · RabbitMQ · React · Docker Compose
 
-🔎 Source: **[github.com/YOUR_USERNAME/linkpulse](https://github.com/YOUR_USERNAME/linkpulse)**
+🔎 Source: **[linkpulse](https://github.com/iamSunnyrohit/LinkPulse)**
 
 ---
 
